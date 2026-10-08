@@ -1,55 +1,69 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Ankush Kumar
 
-###
+### Software Engineer • AI Engineer • Builder
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+I build practical software and AI systems with a focus on **problem solving, backend engineering, machine learning, and production**.
 
-###
+## 👨‍💻 About Me
 
-<h1 align="center">Hey👋 I'm Ankush</h1>
+- 🧠 Building strong foundations in **Data Structures & Algorithms**
+- 💻 Practicing **LeetCode + HackerRank** with a pattern-first approach
+- ⚙️ Working with **Python, FastAPI, MongoDB and backend systems**
+- 🤖 Growing into **AI engineering with PyTorch, Computer Vision and LLMs**
+- 🐧 Learning production engineering with **Linux, Git, Docker, testing and deployment**
+- 🚀 Interested in turning useful ideas into **real products and startup experiments**
 
-###
+## 🧠 Engineering Focus
 
-<h3 align="left">👩‍💻  About Me</h3>
+**Algorithms & DSA**  
+Problem solving, complexity analysis, trees, graphs, dynamic programming, greedy, backtracking and interview preparation.
 
-###
+**AI Engineering**  
+Machine Learning, Deep Learning, PyTorch, Computer Vision, LLMs, RAG, fine-tuning and model evaluation.
 
-<p align="left">I'm Ankush from Nalanda, Bihar<br><br>- 🔭 I’m working as Intern (Docketrun)<br>- 📚 I'm currently learning FastAPI<br>- ⚡ In my free time I play chess</p>
+**Backend & Systems**  
+Python, FastAPI, REST APIs, MongoDB, Linux/RHEL, Docker, networking and system design.
 
-###
+**Production**  
+Testing, deployment, monitoring, reliability and iterative product development.
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠️ Tech Stack
 
-###
+**Languages:** Python · C++  
+**Backend:** FastAPI · REST APIs · MongoDB  
+**AI/ML:** PyTorch · Machine Learning · Deep Learning · Computer Vision · LLMs · RAG  
+**Systems:** Linux/RHEL · Git · Docker · Networking  
+**Engineering:** Testing · Deployment · Monitoring · System Design
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-</div>
+## 🚀 What I'm Building
 
-###
+| Area | Focus |
+|---|---|
+| 🧠 DSA | LeetCode + HackerRank solutions and reusable patterns |
+| 🤖 AI | ML, Computer Vision, PyTorch and LLM projects |
+| ⚙️ Backend | APIs, services and production-oriented systems |
+| 🚀 Products | Automation, startup experiments and real-world applications |
 
-<div align="center">
-</div>
+## 🔥 How I Work
 
-###
+**Understand → Design → Implement → Test → Measure → Ship → Iterate**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krankushpatel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krankushpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Stats" height="150" alt="languages graph"  />
-</div>
+I care about the reasoning behind a solution, not just the final code.
 
-###
+- **DSA:** pattern recognition + independent problem solving
+- **AI:** baselines + evaluation + failure analysis
+- **Software:** clear interfaces + testing + maintainability + production thinking
 
-###
+## 🎯 Current Goal
+
+Build the depth and real engineering evidence required to work confidently across:
+
+**Algorithms ↔ Backend Systems ↔ AI/ML ↔ Production Engineering ↔ Product Building**
+
+> **Proof of work > vanity metrics.**
+
+## 📫 GitHub
+
+[github.com/krankushpatel](https://github.com/krankushpatel)
+
+*Learn → Build → Ship → Measure → Improve.*
