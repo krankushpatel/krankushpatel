@@ -52,6 +52,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/krankushpatel/krankushpatel/output/snake.svg" alt="Snake animation" />
-
 ###
